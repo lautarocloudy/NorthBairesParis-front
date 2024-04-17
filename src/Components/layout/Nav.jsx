@@ -11,12 +11,7 @@ const Nav = () => {
             <NavLink aria-current="page" to="/social/salir">Salir</NavLink>
           </li>
         </ul>
-        {/* partes del medio superior */}
 
-
-        {/* parte medio inferior */}
-
-       
       </nav>
 
     </>

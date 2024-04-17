@@ -24,7 +24,7 @@ export const Rutas = () => {
 
 
                             
-                            {/* <Route path="salir" element={<Logout />} /> */}
+                            <Route path="salir" element={<Logout />} />
                         </Route>
                     
                         <Route path='*' element={
